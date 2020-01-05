@@ -1,3 +1,7 @@
+<p align="center">
+    <img title="GamersClub Lobby Scanner" height="200" src="https://raw.githubusercontent.com/lucianocarvalho/gamersclub-lobby-scanner/master/logo-readme.png" />
+</p>
+
 # GamersClub Lobby Scanner
 
 Extensão para o Google Chrome que auxilia na escolha de melhores lobbys dentro da plataforma da [GamersClub](https://gamersclub.com.br/). Atualmente ao receber convites de jogos só temos informações do KDR dos jogadores dentro da lobby.
