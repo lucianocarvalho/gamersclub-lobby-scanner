@@ -1,12 +1,12 @@
 <p align="center">
-    <img title="GamersClub Lobby Scanner" height="200" src="https://raw.githubusercontent.com/lucianocarvalho/gamersclub-lobby-scanner/master/logo-readme.png" />
+    <img title="GamersClub Lobby Scanner" src="https://raw.githubusercontent.com/lucianocarvalho/gamersclub-lobby-scanner/master/example-scanner.gif" />
 </p>
 
 # GamersClub Lobby Scanner
 
-Extensão para o Google Chrome que auxilia na escolha de melhores lobbys dentro da plataforma da [GamersClub](https://gamersclub.com.br/). Atualmente ao receber convites de jogos só temos informações do KDR dos jogadores dentro da lobby.
+Extensão para o Google Chrome que auxilia na escolha de melhores lobbys dentro da plataforma da [GamersClub](https://gamersclub.com.br/). Atualmente só conseguimos ver o KDR dos jogadores dentro da lobby.
 
-A extensão adiciona os seguintes detalhes:
+A extensão adiciona mais os seguintes detalhes:
 - Se o KDR do jogador é suspeito (é considerado suspeito KDR >= 1.50)
 - Quantidade de amigos dentro da Steam
 - Quantidade de mapas jogados no  CS:GO

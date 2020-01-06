@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GamersClub Lobby Scanner</title>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            body {
+                background-color:#f5f5f5;
+                color:#424242;
+            }
+
+            a, h4 {
+                color:#000;
+                font-weight: bold;
+            }
+
+            #row input, button {
+                display: inline;
+            }
+
+            input {
+                width: 70%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="row">
+            <label>
+                <input type="text" placeholder="Cole aqui sua API Key da Steam..." id="api_key">
+                <button id="save">Salvar</button>
+            </label>
+        </div>
+
+        <div id="status"></div>
+
+        <h4>Não sabe como ter uma chave da Steam?</h4>
+        <p>Após logar na Steam, <a href="https://steamcommunity.com/dev/apikey">clique aqui</a>, preencha o campo <b>"Nome do domínio"</b> com o seu nome, <b>aceite os termos</b> e então clique em <b>Registrar</b>. Após isso, Steam retornará uma chave (sequência de caracteres e números) de até 32 caracteres. Copie essa chave, cole no campo acima e clique em salvar.</p>
+
+        <p>Para maiores informações, <a href="https://github.com/lucianocarvalho/gamersclub-lobby-scanner">clique aqui</a>.</p>
+
+        <script src="options.js"></script>
+    </body>
+</html>
