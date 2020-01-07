@@ -37,11 +37,17 @@ Para a extensão poder funcionar corretamente, vamos precisar gerar uma **API Ke
 **Salve essa chave em um bloco de notas, vamos utilizá-la no passo de instalação.**
 
 ## Instalação
-- Instale a extensão do Chrome normalmente através **[desse link]()**.
+- Baixe esse repositório como .zip **[aqui nesse link](https://github.com/lucianocarvalho/gamersclub-lobby-scanner/archive/master.zip)**.
+- Descompacte o .zip. Você terá uma pasta chamada `gamersclub-lobby-scanner-master`.
+- Vá para a página de extensões do Google Chrome (`chrome://extensions`)
+- Ative o modo de desenvolvedor no canto superior direito.
+- Jogue a pasta `gamersclub-lobby-scanner-master` em qualquer lugar na página para importar.
 - Um ícone aparecerá na sua barra de extensões no canto superior direito.
 - Clique nele e vá para "Opções".
 - Cole a API Key que você guardou anteriormente e salve.
 - **Pronto! Use essas novas informações para escolher um ótimo lobby. Bom jogo!**
+
+**Observação: não delete a pasta após a instalação.**
 
 ## Bugs e melhorias
 Todos os bugs e melhorias são organizadas aqui dentro do GitHub.
